@@ -1,0 +1,14 @@
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\bin\Debug\net8.0\GoblinFighter.exe
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\bin\Debug\net8.0\GoblinFighter.deps.json
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\bin\Debug\net8.0\GoblinFighter.runtimeconfig.json
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\bin\Debug\net8.0\GoblinFighter.dll
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\bin\Debug\net8.0\GoblinFighter.pdb
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.AssemblyInfoInputs.cache
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.AssemblyInfo.cs
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.csproj.CoreCompileInputs.cache
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.dll
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\refint\GoblinFighter.dll
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.pdb
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\GoblinFighter.genruntimeconfig.cache
+C:\PERSONAL_INTEREST\Programming\GoblinFighter\GoblinFighter\GoblinFighter\obj\Debug\net8.0\ref\GoblinFighter.dll
